@@ -1,1 +1,1 @@
-# segmentatio_model
+# segmentation_model
